@@ -23,6 +23,11 @@ In the verification phase, the program recalculates the hash of the same file at
 
 The entire application is developed and executed using Python IDLE, which makes it beginner-friendly. IDLE provides a simple interface for writing, running, and testing Python programs. This allows students to easily understand the logic, debug errors, and observe output without requiring advanced development tools.
 
-This File Integrity Checker has several real-world applications. It can be used to protect important documents, detect malware attacks, verify downloaded files, and monitor system files for unauthorized changes. Organizations often use similar tools to maintain data integrity and system security.
+This File Integrity Checker has several real-world applications. It can be used to protect important documents, detect malware attacks, verify downloaded files, and monitor system files
+for unauthorized changes. Organizations often use similar tools to maintain data integrity and system security.
+
+OUTPUT:
+
+<img width="1917" height="1012" alt="Image" src="https://github.com/user-attachments/assets/27b9fdd0-45a4-4f32-97c5-ffa86ce9cf33" />
 
 In conclusion, this project demonstrates how Python can be effectively used to build a practical cybersecurity tool. The File Integrity Checker enhances understanding of hashing algorithms, file handling, and security concepts. It is a valuable learning project for students interested in cybersecurity, ethical hacking, and software security, and it can be successfully implemented using Python IDLE with minimal system requirements.
